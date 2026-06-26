@@ -1,0 +1,22 @@
+.vscode
+*.log
+.idea
+.next
+.next/dev
+node_modules
+dist
+client/dist
+server/sandbox/*.json
+server/mocha.json
+server/dist*/
+**/.DS_Store
+.DS_Store
+configData/.gradle
+client/.angular
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
